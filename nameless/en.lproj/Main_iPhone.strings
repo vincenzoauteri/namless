@@ -1,0 +1,15 @@
+
+/* Class = "IBUILabel"; text = "Waiting for heading information..."; ObjectID = "7it-IM-VLa"; */
+"7it-IM-VLa.text" = "Waiting for heading information...";
+
+/* Class = "IBUILabel"; text = "Waiting for location information..."; ObjectID = "AUP-Gx-2PM"; */
+"AUP-Gx-2PM.text" = "Waiting for location information...";
+
+/* Class = "IBUILabel"; text = "Heading Info :"; ObjectID = "Fz4-0F-hDj"; */
+"Fz4-0F-hDj.text" = "Heading Info :";
+
+/* Class = "IBUILabel"; text = "Location info:"; ObjectID = "Rd4-p0-U0Q"; */
+"Rd4-p0-U0Q.text" = "Location info:";
+
+/* Class = "IBUIButton"; normalTitle = "Map"; ObjectID = "n0j-S3-rp6"; */
+"n0j-S3-rp6.normalTitle" = "Map";
